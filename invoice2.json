@@ -1,0 +1,117 @@
+{
+  "logo": "https://global-upload.s3-us-west-2.amazonaws.com/files/Capture_20210731101540409.PNG",
+  "watermark": "https://global-upload.s3-us-west-2.amazonaws.com/files/watermark-og-2_20220314184912158.png",
+  "company_name": "ORGANO USA**",
+  "bar_code": "14513925",
+  "doc_title": "invoice",
+  "order_number": "14513925",
+  "date_order": "7/23/2021",
+  "customer_id": "3001",
+  "invoice_number": "21158674",
+  "shipping_method": "Continental Shipping",
+  "country": "US",
+  "language": "EN",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "pickup_center": false,
+  "recipient_email": "email@email.com",
+  "distributor_info": {
+    "name": "Lawrence 467",
+    "address": "2400 Kresge Road",
+    "state": "KS",
+    "country": "USA",
+    "city": "Lawrence",
+    "postal": "66049",
+    "phone": "1877-674-2661",
+    "email": "support@organogold.com"
+  },
+  "billing_address": {
+    "first_name": "John",
+    "middle_name": "Michel",
+    "last_name": "Doe",
+    "address": "3240 Arville St",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal": "89102-6801",
+    "country": "USA",
+    "phone": "888888"
+  },
+  "shipping_address": {
+    "first_name": "John",
+    "middle_name": "Michel",
+    "last_name": "Doe",
+    "address": "3240 Arville St",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal": "89102-6801",
+    "country": "USA",
+    "phone": "888888"
+  },
+  "pickup_person": {
+    "first_name": "John",
+    "middle_name": "Michel",
+    "last_name": "Doe",
+    "phone": "888888"
+  },
+  "products": [
+    {
+      "sku": "503-US",
+      "description": "OG Gourmet Latte",
+      "retail_price": 30,
+      "quantity": 4,
+      "total": 120,
+      "pack": null
+    },
+    {
+      "sku": "20180912US",
+      "description": "Breakfast Kit Vanilla",
+      "retail_price": 78.5,
+      "quantity": 2,
+      "total": 157,
+      "pack": [
+        {
+          "sku": "1101",
+          "description": "ogxFENIX™ Vanilla Nutritional Shake",
+          "retail_price": null,
+          "quantity": 2,
+          "total": null
+        },
+        {
+          "sku": "501-US",
+          "description": "OG Gourmet Black ",
+          "retail_price": null,
+          "quantity": 2,
+          "total": null
+        }
+      ]
+    }
+  ],
+  "calculation": {
+    "subtotal": 636.3,
+    "shipping_handling_fees": 27.5,
+    "sales_tax": 29.13,
+    "adjustments": 0,
+    "order_total": 692.93,
+    "payment": 692.93
+  },
+  "tax_rate": [
+    {
+      "category": "1101",
+      "rate": 9.5,
+      "tax_base": 108.94,
+      "amount": 10.35
+    },
+    {
+      "category": "1210",
+      "rate": 9.5,
+      "tax_base": 90,
+      "amount": 8.56
+    }
+  ],
+  "payment_method": {
+    "pay_type": "Bank Payment",
+    "payment_record ": null,
+    "authentication_record": "6666",
+    "amount": 692.93
+  }
+}
